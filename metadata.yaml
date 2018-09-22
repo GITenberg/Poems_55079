@@ -1,5 +1,5 @@
 _repo: Poems_55079
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '80'
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: archival
+  image_path: 55079-h/images/cover.jpg
 creator:
   author:
     agent_name: Maynard, Theodore
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '48182'
     url: http://www.gutenberg.org/2009/agents/48182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55079#Poems
 gutenberg_issued: '2017-07-09'
 gutenberg_type: Text
 identifiers:
